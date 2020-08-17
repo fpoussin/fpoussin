@@ -24,7 +24,7 @@ You can use the website to generate badges: https://shields.io/
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-  <img width="60%" align="right" alt="Fabien's github stats" src="https://github-readme-stats.vercel.app/api?username=fpoussin&show_icons=true&hide_border=true&line_height=28&title_color=0070dd&icon_color=ff8000&show_owner=true" />
+  <img width="60%" align="right" alt="Fabien's github stats" src="https://github-readme-stats.vercel.app/api?username=fpoussin&show_icons=true&hide_border=true&line_height=27&title_color=0070dd&icon_color=ff8000&show_owner=true" />
   
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
