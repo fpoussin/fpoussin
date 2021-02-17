@@ -14,10 +14,9 @@ You can use the website to generate badges: https://shields.io/
 
 - I’m working on various Qt projects, mainly [QtUsb](https://github.com/fpoussin/QtUsb).
 - I'm mainly working with AWS, Azure, Kubernetes, Helm and Terraform.
-- I’m currently learning OpenShift.
 - I help maintaining the community part of the [ChibiOS RTOS](https://github.com/ChibiOS).
 - I make lots of stuff out of STM32 devices.
-- I love to make stuff for my motorcycles.
+- I love to make devices for my motorcycles.
 
 **Languages and Tools:** 
 
@@ -25,13 +24,13 @@ You can use the website to generate badges: https://shields.io/
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-  <img width="60%" align="right" alt="Fabien's github stats" src="https://github-readme-stats.vercel.app/api?username=fpoussin&show_icons=true&hide_border=true&line_height=27&icon_color=ff8000&show_owner=true&include_all_commits=true&theme=prussian" />
+  <img width="60%" align="right" alt="Fabien's github stats" src="https://github-readme-stats.vercel.app/api?username=fpoussin&show_icons=true&hide_border=true&line_height=27&icon_color=ff8000&show_owner=true&include_all_commits=true&count_private=true&theme=prussian" />  
   
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/openshift/openshift-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
