@@ -13,7 +13,7 @@ You can use the website to generate badges: https://shields.io/
 **Stuff I do and like:**
 
 - I’m working on various Qt projects, mainly [QtUsb](https://github.com/fpoussin/QtUsb).
-- I'm mainly working with AWS, Azure, Kubernetes, Helm and Terraform.
+- I mainly work with AWS, Azure, Kubernetes, Helm and Terraform.
 - I help maintaining the community part of the [ChibiOS RTOS](https://github.com/ChibiOS).
 - I make lots of stuff out of STM32 devices.
 - I love to make devices for my motorcycles.
