@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hey there, I'm Fabien, a Devops engineer and open source contributor from France.
+## Hey there, I'm Fabien, a site reliability engineer and open source contributor from France.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
