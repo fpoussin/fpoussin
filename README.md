@@ -8,6 +8,8 @@ You can use the website to generate badges: https://shields.io/
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/fpoussin)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fpoussin/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fabien.poussin@gmail.com)
+[![Sponsor](https://img.shields.io/badge/-Sponsor-ea4aaa?style=flat&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/fpoussin)
+[![Ko-fi](https://img.shields.io/badge/-Ko--fi-FF5E5B?style=flat&logo=kofi&logoColor=white)](https://ko-fi.com/fpoussin)
 
 <!-- Talking about you -->
 **Stuff I do and like:**
